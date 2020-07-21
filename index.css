@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(28, 114, 226);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.iniButtonCSS, .iniButtonCSS:link {
+    background-color: red;
+    font-size: 100px;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5%;
+}
+.iniButtonCSS:hover {
+    background-color: rgb(214, 0, 0);
+    text-decoration: underline;
+}
+.iniButtonCSS:active {
+    background-color: rgb(255, 103, 103);
+}
